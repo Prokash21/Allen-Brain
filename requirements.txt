@@ -1,0 +1,17 @@
+# Minimal inferred requirements for the scripts and notebooks in this repo
+# Pinned where notebooks suggested versions. Adjust as needed.
+numpy==1.26.4
+pandas==2.3.0
+matplotlib==3.8.1
+seaborn==0.12.2
+scipy==1.11.3
+jupyter==1.0.0
+nbclient==0.8.0
+nbconvert==7.7.0
+papermill==2.4.1
+allensdk==2.2.0
+statsmodels==0.14.4
+urllib3==2.1.0
+
+# Optional: needed only for heavier AllenSDK features
+# pynwb, h5py, tables can be installed if notebooks require them
