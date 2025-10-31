@@ -1,0 +1,17 @@
+--- STDOUT ---
+Downloading SpecimenMetadata.csv...
+Saved to data\SpecimenMetadata.csv
+Downloading lib_size.csv...
+Saved to data\lib_size.csv
+Downloading IC_list.json...
+Saved to data\IC_list.json
+
+Downloaded files:
+ - data\SpecimenMetadata.csv
+ - data\lib_size.csv
+ - data\IC_list.json
+
+--- STDERR ---
+
+--- RETURN CODE ---
+0

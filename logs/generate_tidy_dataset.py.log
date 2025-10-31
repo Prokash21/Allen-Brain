@@ -1,0 +1,13 @@
+--- STDOUT ---
+Wrote E:\DWCT\GitHub_Projects\allen_brain\data\tidy_cell_table.csv
+Median spk_rate per area:
+ area
+AUDp    3.716293
+VISl    3.034702
+VISp    2.830676
+Name: spk_rate, dtype: float64
+
+--- STDERR ---
+
+--- RETURN CODE ---
+0

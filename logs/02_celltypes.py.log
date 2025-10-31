@@ -1,0 +1,10 @@
+--- STDOUT ---
+AllenSDK not installed or import failed: No module named 'allensdk'
+Install with: pip install allensdk
+
+--- STDERR ---
+E:\DWCT\GitHub_Projects\allen_brain\scripts\allen_25\02_celltypes.py:10: SyntaxWarning: invalid escape sequence '\.'
+  p.add_argument('--outcsv', default='..\..\data\allen_celltypes_specimens.csv')
+
+--- RETURN CODE ---
+0

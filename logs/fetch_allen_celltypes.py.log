@@ -1,0 +1,8 @@
+--- STDOUT ---
+AllenSDK not available or failed to import: No module named 'allensdk'
+Install it with: pip install allensdk
+
+--- STDERR ---
+
+--- RETURN CODE ---
+0

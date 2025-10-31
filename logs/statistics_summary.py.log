@@ -1,0 +1,8 @@
+--- STDOUT ---
+Summary stats: {'mean': -0.045256707490195384, 'std': 0.9870331586690257, 'median': -0.058028034799627745}
+Saved E:\DWCT\GitHub_Projects\allen_brain\figures\electroscopy_statistics_hist.png
+
+--- STDERR ---
+
+--- RETURN CODE ---
+0
